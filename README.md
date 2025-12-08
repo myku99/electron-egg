@@ -37,7 +37,7 @@ Whether you're a frontend developer, backend developer, operations engineer, gam
 - 🍩 **Why use...？** Desktop software (in the areas of office work and personal tools) will remain one of the demands on the PC side in the next decade or so, and it can improve work efficiency.
 - 🍉 **simple：** support js、ts 
 - 🍑 **vision：** All developers can learn to develop desktop software.
-- 🍰 **gitee：** https://gitee.com/dromara/electron-egg **5600+**
+- 🍰 **gitee：** https://gitee.com/dromara/electron-egg **5900+**
 - 🍨 **github：** https://github.com/dromara/electron-egg **2600+**
 - 🍰 **gitcode：** https://gitcode.com/dromara/electron-egg 
 - 🏆 The Most Valuable Open - source Projects on Gitee
